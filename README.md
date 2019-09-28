@@ -118,18 +118,18 @@ END OF TERMS AND CONDITIONS
 
 Citation: -
               Signing Function
- Public boolean login ()  {
-            String Sql = "select userName , password from Admin where     userName =' "+UserName +"' and password =              '"+PassWord+"';";
-           boolean quary = Go.ExecuteQuary(Sql);
+	      
+      Public boolean login ()  {
+            String Sql = "select userName , password from Admin where     userName =' "+UserName +"' and password =                 				 '"+PassWord+"';";
+            boolean quary = Go.ExecuteQuary(Sql);
            return quary;
- }
+      }
            Description: -
                        Make Login from Database to Java Application.
            Parameters: -
 		None parameters.
            What the Method Returns: -
 		True if The Login is Correct or false if The Login isn't Correct.
-
 Contact: -
 
        Mohamed Ali Ebrahem Ali
