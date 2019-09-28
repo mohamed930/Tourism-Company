@@ -115,3 +115,56 @@ NO WARRANTY
 
 
 END OF TERMS AND CONDITIONS
+
+Citation: -
+              Signing Function
+ Public boolean login ()  {
+            String Sql = "select userName , password from Admin where     userName =' "+UserName +"' and password =              '"+PassWord+"';";
+           boolean quary = Go.ExecuteQuary(Sql);
+           return quary;
+ }
+           Description: -
+                       Make Login from Database to Java Application.
+           Parameters: -
+		None parameters.
+           What the Method Returns: -
+		True if The Login is Correct or false if The Login isn't Correct.
+
+Contact: -
+
+       Mohamed Ali Ebrahem Ali
+         (Desktop Developer)
+             01273101459
+             
+       Mohamed Saleh Slim
+       (Desktop Developer)
+          01021471128
+          
+       Karim Ismael Ebrahim
+        (IOS Developer)
+          01200129407
+          
+       Ali Abdu Mohamed Abdu
+         (Web Developer)
+           01028010862
+
+       Mohamed Mahmoud Hussein
+          (Web Developer)
+           01013633101
+           
+       Mahmoud Hesham Mahmoud
+          (IOS Developer)
+            01202645204
+            
+       Mohamed Alaa Ali
+       (Web Developer)
+         01289643240
+         
+       Kirolos Nabil Helmy
+       (Android Developer)
+          01275410245
+          
+           Amir Fawzi
+       (Android Developer)
+           01271907849
+
