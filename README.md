@@ -160,11 +160,12 @@ Contact: -
        (Web Developer)
          01289643240
          
-       Kirolos Nabil Helmy
-       (Android Developer)
-          01275410245
-          
-           Amir Fawzi
-       (Android Developer)
-           01271907849
+        Kerolous Nabil Helmy
+	(Android Developer)
+	   01275410245
+	   
+	 Amir Fawzi rawhi
+	(Android Developer)
+	   01271907849
+
 
